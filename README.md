@@ -55,4 +55,3 @@ Enter text in the input field and listen to the speech output.
 This project is **open-source** and free to use.  
 ```
 
-This will display properly on GitHub with proper headings, bullet points, and code blocks. Let me know if you need any changes! 🚀
