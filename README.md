@@ -1,4 +1,3 @@
-Here is a properly formatted `README.md` file with Markdown syntax for your GitHub repository:  
 
 ```md
 # Google Text-to-Speech (gTTS) with Flask  
